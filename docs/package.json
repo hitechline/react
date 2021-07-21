@@ -40,7 +40,7 @@
     "imagemin-optipng": "8.0.0",
     "next-compose-plugins": "2.2.1",
     "next-optimized-images": "2.6.2",
-    "postcss": "8.3.5",
+    "postcss": "8.3.6",
     "postcss-color-converter": "1.0.3",
     "postcss-color-hsl": "2.0.0",
     "postcss-color-mod-function": "3.0.3",
@@ -48,6 +48,6 @@
     "postcss-flexbugs-fixes": "5.0.2",
     "postcss-nesting": "8.0.1",
     "postcss-preset-env": "6.7.0",
-    "tailwindcss": "2.2.4"
+    "tailwindcss": "2.2.6"
   }
 }
