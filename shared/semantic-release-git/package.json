@@ -11,12 +11,12 @@
   },
   "dependencies": {
     "@semantic-release/error": "2.2.0",
-    "aggregate-error": "3.1.0",
+    "aggregate-error": "4.0.0",
     "debug": "4.3.2",
     "dir-glob": "3.0.1",
     "execa": "5.1.1",
     "lodash": "4.17.21",
     "micromatch": "4.0.4",
-    "p-reduce": "2.1.0"
+    "p-reduce": "3.0.0"
   }
 }
